@@ -12,9 +12,9 @@ Custom Styles: Utilizes CSS for styling elements to create an appealing user exp
 
 # Installation
 1]Clone the repository:
-Copy:- git clone https://github.com/yourusername/spotify-clone.git  
+Copy:- git clone  https://github.com/SaloniPatil7/spotify 
 2] Navigate to the project directory:  
-cd spotify-clone  
+cd spotify  
 3]Open index.html in your web browser to view the project.
 
 Acknowledgments:-
