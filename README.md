@@ -11,8 +11,7 @@ Custom Styles: Utilizes CSS for styling elements to create an appealing user exp
 **CSS**: Styling and layout.
 
 # Installation
-1]Clone the repository:
-Copy:- git clone  https://github.com/SaloniPatil7/spotify 
+1]Clone the repository:Copy:- git clone  https://github.com/SaloniPatil7/spotify   
 2] Navigate to the project directory:  
 cd spotify  
 3]Open index.html in your web browser to view the project.
