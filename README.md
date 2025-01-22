@@ -1,6 +1,6 @@
-This project is a static web application that mimics the look and feel of Spotify using only HTML and CSS. 
+**This project is a static web application that mimics the look and feel of Spotify using only HTML and CSS. 
 While it doesn’t include backend functionality, it showcases responsive design and UI layout, providing a visual
-representation of a music streaming platform.
+representation of a music streaming platform.**
 
 # Features
 Responsive Design: The layout adapts seamlessly to different screen sizes.
