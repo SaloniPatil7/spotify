@@ -7,7 +7,7 @@ Responsive Design: The layout adapts seamlessly to different screen sizes.
 Static Pages: Includes multiple pages like Home, Search, and Playlists, designed to replicate Spotify's interface.
 Custom Styles: Utilizes CSS for styling elements to create an appealing user experience.
 # Technologies Used
-**HTML**: Structure of the web pages.
+**HTML**: Structure of the web pages.  
 **CSS**: Styling and layout.
 
 # Installation
